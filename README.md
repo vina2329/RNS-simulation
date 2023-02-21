@@ -1,4 +1,5 @@
 # RNS-simulation
+This is the final course project for Neural Implants and Interfaces (EN 580.742) at Johns Hopkins University
 
 ### Prerequisites:
 To run the simulation, download the MATLAB mobile app on a mobile device and connect it to the MATLAB Desktop version via MATLAB cloud. See below for specific sensor setting instructions for your mobile device.
